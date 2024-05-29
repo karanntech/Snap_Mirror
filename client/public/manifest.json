@@ -1,0 +1,8 @@
+{
+  "short_name": "Snap WebApp",
+  "name": "Snap_Mirror -a social media platform",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
