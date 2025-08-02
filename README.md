@@ -26,6 +26,3 @@ npm install
 * Website: https://karantech.vercel.app/
 * Github: [@karanntech](https://github.com/karanntech)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
