@@ -1,28 +1,52 @@
-<h1 align="center">Welcome to snapmirror 👋</h1>
-<p>
-</p>
+# 📸 SnapMirror
 
-> social media platform where user can post pictures as well as bio
+Welcome to **SnapMirror** – a basic social media platform where users can post pictures and write a short bio. This project was created as part of my academic curriculum.
 
-## Install
+---
 
-```sh
+## 🚀 Features
+
+- User can post pictures.
+- Users have personal bios.
+- Clean and simple UI built with ReactJS.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** ReactJS (JavaScript)
+- **Backend:** NodeJs, ExpressJs
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/karanntech/Snap_Mirror.git
+
+# Navigate into the project
 cd Snap_Mirror
 
+# Install dependencies for client
 cd client
-```
-> It should be used for both client and server, since it was made using reactJs and JavaScript
-
-> You have to install node package manager for both client and server using below command
-
-```sh
 npm install
 ```
 
-## Author
+> Make sure Node.js and npm are installed on your machine.
 
-👤 **Karan**
+## 👤 Author
 
-* Website: https://karantech.vercel.app/
-* Github: [@karanntech](https://github.com/karanntech)
+Karan
 
+Portfolio: https://karantech.vercel.app
+
+GitHub: @karanntech
+
+## 🎓 Academic Note
+This project was submitted as part of my academic work.
+
+I secured a 9 SGPA for the project.
+
+## 🔗 Live Demo
+Not deployed currently.
